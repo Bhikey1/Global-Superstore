@@ -19,4 +19,4 @@ The most profitable customer segment was **consumer**, followed by **corporate**
 There are more customers in the **United States than other countries**, almost **10,000** customers are in the U.S. Then, **Austrailia, France, Mexico**, etc.
 
 
-Data visualization: ![Global Superstore](https://github.com/Bhikey1/Global-Superstore/blob/main/Global%20Superstore.png)
+### Data visualization: ![Global Superstore](https://github.com/Bhikey1/Global-Superstore/blob/main/Global%20Superstore.png)
